@@ -126,6 +126,11 @@ h4 {
   font-size: 22px;
 }
 
+
+#bloc1, #bloc2
+{
+    display:inline;
+}
 ::selection {
   color: #fff;
   background: #17bed2;
